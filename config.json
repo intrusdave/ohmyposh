@@ -146,7 +146,7 @@
           "foreground_templates": [
             "{{ if gt .Code 0 }}#ff0000{{ end }}"
           ],
-          "template": " \ueb05 ",
+          "template": " \uedfb ",
           "properties": {
             "always_enabled": true
           },
